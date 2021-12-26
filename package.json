@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^13.4.0",
+    "java-util-random": "^1.0.0"
+  }
+}
